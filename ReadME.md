@@ -7,6 +7,11 @@
 - [OAuth School (Exercises)](https://oauth.school/)
 - [OAuth - Code (Libraries)](https://oauth.net/code/)
 - [OAuth 2.0 for Browser-Based apps](https://oauth.net/2/browser-based-apps/)
+- [OWASP - (Cross Site Script)](https://owasp.org/www-community/attacks/xss/)
+- [OWASP - (Cross Site Scripting Prevention Cheat Sheet)](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+- [Book Recommended](oauth2simplified.com)
+- [Book Website](oauth.com)
+- oauth.net
 
 ## Overview
 
