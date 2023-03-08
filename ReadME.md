@@ -6,6 +6,7 @@
 - [O'Reilly Live Lesson](https://learning.oreilly.com/live-events/hands-on-introduction-to-oauth-20/0636920328384/0636920087457/)
 - [OAuth School (Exercises)](https://oauth.school/)
 - [OAuth - Code (Libraries)](https://oauth.net/code/)
+- [OAuth 2.0 for Browser-Based apps](https://oauth.net/2/browser-based-apps/)
 
 ## Overview
 
